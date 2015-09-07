@@ -1,2 +1,2 @@
 # Level-generator
-Lever generator door middel van chunks
+Level generator door middel van chunks
